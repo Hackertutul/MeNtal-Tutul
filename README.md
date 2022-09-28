@@ -1,6 +1,27 @@
 # MeNtal-Tutul
 ꧁👹(͓̽̿̿̿̿M͓̽e͓̽N͓̽t͓̽a͓̽l͓̽✷͓̽G͓̽a͓̽N͓̽g͓̽✷͓̽C͓̽C͓̽C͓̽5͓̽)͓̽̿̿̿̿👹꧂
 
+apt install python
+
+apt install python2
+
+pip install mechanize lolcat
+
+ pip install requests bs4
+
+ pip install futures
+
+apt install git
+
+git clone https://github.com/Tutul75o/MeNtal-Tutul
+
+cd MeNtal-Tutul
+
+python Mr.Tutul.py
+
+
+
+
 
 
 
